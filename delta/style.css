@@ -1,0 +1,39 @@
+/* *{
+    padding:;
+    width: 0;
+    height: 0;
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+} */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700&display=swap');
+
+.home{
+    color: #D40E1E;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: baseline;
+    margin-left: -17px;
+    font-size: 15px;
+    flex-direction: column;
+}
+.academ{
+    color: #2D2651;
+    padding: 20px;
+    display: flex;
+    font-size: 15px;
+    align-items: baseline;
+}
+.menu{
+    color: #000000;
+    font-family: 'Montserrat';
+    margin-left: 63px;
+    padding: 13px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+}

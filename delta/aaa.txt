@@ -1,0 +1,26 @@
+        <!-- <ul>
+            <a href="#"><li>Attendance</li></a>
+            <li>Curriculum</li>
+            <li>Course registration</li>
+            <li>Schedule</li>
+            <li>Grades list</li>
+            <li>Transcript</li>
+        </ul>
+        <ul>
+            <li>Accounting info</li>
+            <li>System calendar</li>
+            <li>Rules</li>
+        </ul>
+        <ul>
+            <li>Messages</li>
+            <li>Questionnaires</li>
+            <li>Online services</li>
+        </ul>
+        <ul>
+            <li>My  profie</li>
+            <li>Settings</li>
+            <li>Contact us</li>
+        </ul>
+        <ul>
+            <ol>Sign out</ol>
+        </ul>
